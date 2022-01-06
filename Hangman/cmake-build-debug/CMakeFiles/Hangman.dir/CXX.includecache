@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/Dictionary.h
+iostream
+-
+fstream
+-
+vector
+-
+stdexcept
+-
+cstdlib
+-
+locale
+-
+
+C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/Engine.cpp
+Engine.h
+C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/Engine.h
+
+C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/Engine.h
+array
+-
+locale
+-
+Player.h
+C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/Player.h
+Dictionary.h
+C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/Dictionary.h
+
+C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/Player.h
+

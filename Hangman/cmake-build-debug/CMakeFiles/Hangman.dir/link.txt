@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Hangman.dir/objects.a
+C:\mingw\bin\ar.exe cr CMakeFiles\Hangman.dir/objects.a @CMakeFiles\Hangman.dir\objects1.rsp
+C:\mingw\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Hangman.dir/objects.a -Wl,--no-whole-archive  -o Hangman.exe -Wl,--out-implib,libHangman.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Hangman.dir\linklibs.rsp

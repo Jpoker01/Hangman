@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Hangman"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Hangman">
+				<Option output="C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/cmake-build-debug/Hangman.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw/include"/>
+					<Add directory="c:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="c:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
+					<Add directory="c:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="c:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="c:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/cmake-build-debug/Makefile&quot;  VERBOSE=1 Hangman"/>
+					<CompileFile command="C:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Hangman/fast">
+				<Option output="C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/cmake-build-debug/Hangman.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw/include"/>
+					<Add directory="c:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="c:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
+					<Add directory="c:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="c:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="c:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/cmake-build-debug/Makefile&quot;  VERBOSE=1 Hangman/fast"/>
+					<CompileFile command="C:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/Dictionary.cpp">
+			<Option target="Hangman"/>
+		</Unit>
+		<Unit filename="C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/Dictionary.h">
+			<Option target="Hangman"/>
+		</Unit>
+		<Unit filename="C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/Engine.cpp">
+			<Option target="Hangman"/>
+		</Unit>
+		<Unit filename="C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/Engine.h">
+			<Option target="Hangman"/>
+		</Unit>
+		<Unit filename="C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/Player.cpp">
+			<Option target="Hangman"/>
+		</Unit>
+		<Unit filename="C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/Player.h">
+			<Option target="Hangman"/>
+		</Unit>
+		<Unit filename="C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/main.cpp">
+			<Option target="Hangman"/>
+		</Unit>
+		<Unit filename="C:/Users/jirip/Desktop/ITProgramy/CPC + ZOO/Hangman/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
